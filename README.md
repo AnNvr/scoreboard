@@ -1,2 +1,6 @@
-# scoreboard
-A basketball scoreboard to practice on storing values in JS variables and DOM
+Quick start:
+
+$ npm install
+$ npm start
+
+Head over to https://vitejs.dev/ to learn more about using vite
